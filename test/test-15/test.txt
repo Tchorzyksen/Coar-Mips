@@ -1,0 +1,2 @@
+Input file: 		source.bmp (images/food/food-bmp-set12/pea-02.bmp)
+Console output:		"Input image not found."

@@ -1,0 +1,2 @@
+Input file: 		source.bmp (lin-02)
+Console output:		lin

@@ -1,0 +1,2 @@
+Input file: 		source.bmp (bre-02)
+Console output:		bre

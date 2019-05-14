@@ -1,0 +1,2 @@
+Input file:		inputFileTest.txt
+ConsoleOutput:		"File format is not supported"

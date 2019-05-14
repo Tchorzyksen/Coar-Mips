@@ -1,0 +1,2 @@
+Input file: 		source.bmp (car-01)
+Console output:		car

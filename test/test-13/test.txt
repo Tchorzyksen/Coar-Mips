@@ -1,0 +1,2 @@
+Input file:		no input file
+Console output:		"Cannot open the file."
