@@ -1,4 +1,4 @@
-# Coar-Mips
+# Coar-Mips (ECOAR project at WUT)
 
 ## Mips Project 
 
